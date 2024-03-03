@@ -1,4 +1,4 @@
-Hi watcher 🖐️
+ <center>Hi watcher 🖐️</center>
 <br/>
 you can find the figma design of this project at this 
 <br/>
